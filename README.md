@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Portfolio under active development — full overview coming soon.
 <!--
 **fedebri/fedebri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
