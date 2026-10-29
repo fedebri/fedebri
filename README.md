@@ -5,7 +5,7 @@
 i combine statistical reasoning, machine learning, and data engineering to turn complex questions into evidence, models, and working systems
 my work spans predictive and behavioural analytics, business diagnostics, automation, and human-led ai, with an emphasis on reproducibility, transparent evaluation, and practical relevance
 
-my ambition is to shape how organisations learn, decide, and operate—translating rigorous research into tools and workflows that strengthen human judgment and expand what people can accomplish
+my ambition is to shape how organisations learn, decide, and operate, translating  research into tools and workflows that strengthen human judgment and expand what people can accomplish
 
 
 
